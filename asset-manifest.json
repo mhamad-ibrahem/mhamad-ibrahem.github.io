@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6e99682d.css",
+    "main.js": "/static/js/main.20352710.js",
+    "static/media/ali.png": "/static/media/ali.855bc02b2a3416556deb.png",
+    "static/media/zain.png": "/static/media/zain.6f0a19b152412327055d.png",
+    "static/media/loading_holder.jpg": "/static/media/loading_holder.3c0a422b9d39f22e1be7.jpg",
+    "index.html": "/index.html",
+    "main.6e99682d.css.map": "/static/css/main.6e99682d.css.map",
+    "main.20352710.js.map": "/static/js/main.20352710.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e99682d.css",
+    "static/js/main.20352710.js"
+  ]
+}
